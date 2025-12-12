@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Indie-0.1.2";
 const contentToCache = [
     "Build/7a2dbded24d57e056180125b1583e7c4.loader.js",
-    "Build/6dc7cd1497fdcb6af8269292c48e53c8.framework.js",
-    "Build/25941d46e041ea8d1c003b49fc91529b.data",
-    "Build/3b2c6752534da8bc9d77c0558456230f.wasm",
+    "Build/9a6028d232cd12a554ff6717bc87cc85.framework.js",
+    "Build/74e0cefd831fbb0c245000c6425b07c4.data",
+    "Build/901dbd5b7da311279bdebd927388f6c7.wasm",
     "TemplateData/style.css"
 
 ];
